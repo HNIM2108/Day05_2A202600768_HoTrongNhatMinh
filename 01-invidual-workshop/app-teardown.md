@@ -4,9 +4,9 @@
 **Hình thức:** cá nhân trước, chia sẻ theo nhóm sau  
 **Output:** finding note + sketch `as-is / to-be`
 
-**Họ tên:** Hồ Trọng Nhật Minh
-**Mã học viên:** 2A202600768
-**Lớp:** E402
+- **Họ tên:** Hồ Trọng Nhật Minh
+- **Mã học viên:** 2A202600768
+- **Lớp:** E402
 
 Mục tiêu không phải chấm "UI đẹp hay xấu". Mục tiêu là dùng sản phẩm thật như một bài needfinding: tìm chỗ product gãy trong workflow thật, rồi viết finding đó thành quyết định product.
 
